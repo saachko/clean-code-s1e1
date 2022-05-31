@@ -100,6 +100,7 @@
   display: block;
   margin: 0 0 20px;
 }
+
 .new-task__input {
   width: 318px;
 }
@@ -127,7 +128,7 @@
 }
 
 .text-input {
-  width: 226px
+  width: 226px;
 }
 
 .delete__img {
@@ -148,12 +149,12 @@
 
 /* Edit Task */
 .tasks .text-input {
-  display: none
+  display: none;
 }
 
 .task_edit-mode .text-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task_edit-mode .task-label {
